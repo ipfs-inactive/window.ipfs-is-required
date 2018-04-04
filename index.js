@@ -1,5 +1,5 @@
 function verify () {
-  if (window.ipfs) return
+  if (window.ipfs) return true
 
   var a = document.createElement('a')
   a.href = 'https://github.com/ipfs-shipyard/ipfs-companion#install'
@@ -39,10 +39,11 @@ function verify () {
 
   a.appendChild(close)
   document.body.appendChild(a)
+  return false
 }
 
 if (typeof exports !== 'undefined') {
   module.exports = verify
 } else {
-  document.addEventListener('DOMContentLoaded', verify)
+  document.addEventListener('DOMContentLoaded', () => { verify() })
 }
