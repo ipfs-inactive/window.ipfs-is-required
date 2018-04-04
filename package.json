@@ -6,5 +6,10 @@
   "repository": "https://github.com/hacdias/window.ipfs-is-required.git",
   "author": "Henrique Dias <hacdias@gmail.com>",
   "license": "MIT",
-  "private": false
+  "keywords": [
+    "ipfs",
+    "qr",
+    "example",
+    "demo"
+  ]
 }
