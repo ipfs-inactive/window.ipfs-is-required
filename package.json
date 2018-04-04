@@ -1,6 +1,6 @@
 {
   "name": "window.ipfs-is-required",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Show a download link for IPFS Companion when window.ipfs is not detected.",
   "main": "index.js",
   "repository": "https://github.com/hacdias/window.ipfs-is-required.git",
