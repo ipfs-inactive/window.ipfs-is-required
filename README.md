@@ -7,6 +7,8 @@
 
 The [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion) web extension provides a `window.ipfs` object to web pages you visit. This module will detects the presence of `window.ipfs` and if it isn't present, the user will be asked to install the web extension.
 
+![](https://user-images.githubusercontent.com/5447088/38322148-807b119a-3831-11e8-9706-12c1aa772a41.png)
+
 ## Usage
 
 You can just add a script tag to your HTML file:
