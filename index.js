@@ -7,7 +7,7 @@ function verify () {
 
   a.style.textDecoration = 'none'
   a.style.color = 'white'
-  a.style.lineHeight = 1
+  a.style.lineHeight = 1.4
   a.style.fontFamily = 'sans-serif'
   a.style.boxShadow = '0 1px 3px rgba(11, 58, 83, 0.3)'
   a.style.display = 'flex'
