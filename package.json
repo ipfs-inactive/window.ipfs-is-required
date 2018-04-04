@@ -4,7 +4,10 @@
   "description": "Show a download link for IPFS Companion when window.ipfs is not detected.",
   "main": "index.js",
   "repository": "https://github.com/hacdias/window.ipfs-is-required.git",
-  "author": "Henrique Dias <hacdias@gmail.com>",
+  "author": "IPFS Contributors",
+  "contributors": [
+    "Henrique Dias <hacdias@gmail.com>"
+  ],
   "license": "MIT",
   "keywords": [
     "ipfs",
