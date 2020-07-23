@@ -1,3 +1,11 @@
+# Deprecated
+
+This library has been deprecated and replaced with more flexible [ipfs-provider](https://github.com/ipfs-shipyard/ipfs-provider). 
+
+*This library will not be maintained.*
+
+---
+
 # window.ipfs-is-required
 
 [![NPM](https://img.shields.io/npm/v/window.ipfs-is-required.svg?style=flat-square)](https://www.npmjs.com/package/window.ipfs-is-required)
